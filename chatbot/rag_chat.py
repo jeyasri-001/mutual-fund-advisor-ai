@@ -2,10 +2,11 @@ from groq import Groq
 import os
 from dotenv import load_dotenv
 from chatbot.rag import search_funds
+import streamlit as st
 
 load_dotenv()
 
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 def rag_response(user_query):
 
