@@ -1,0 +1,14 @@
+Risk Category,MinAmount,MaxAmount,Fund Names,Fund %
+conservative,1000,10000,Bandhan Income Plus Arbitrage FOF,100
+conservative,10000,100000,ICICI Prudential Equity Savings Fund,50
+conservative,10000,100000,ICICI Gold Fund,50
+moderately conservative,1000,15000,Bandhan Income Plus Arbitrage FOF,70
+moderately conservative,1000,15000,Parag Parikh Flexi Cap Fund,30
+moderate,10000,50000,Parag Parikh Flexi Cap Fund,50
+moderate,10000,50000,Bandhan Income Plus Arbitrage FOF,50
+moderately aggressive,20000,100000,UTI Flexi Cap Fund,40
+moderately aggressive,20000,100000,DSP Midcap Fund,30
+moderately aggressive,20000,100000,ICICI Prudential Value Fund,30
+aggressive,30000,200000,SBI Small Cap Fund,40
+aggressive,30000,200000,360 One Quant Fund,30
+aggressive,30000,200000,DSP Midcap Fund,30
